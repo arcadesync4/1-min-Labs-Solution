@@ -7,11 +7,10 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Storage%20Qwik%20Start%20-%20CLI%20SDK/gsp074.sh
+curl -LO https://raw.githubusercontent.com/arcadesync4/1-min-Labs-Solution/main/Dataflow-Dataproc-Speech-NLP/run-lab.sh
+chmod +x run-lab.sh
+./run-lab.sh
 
-sudo chmod +x gsp074.sh
-
-./gsp074.sh
 ```
 
 ### Congratulations 🎉 for completing the Lab
